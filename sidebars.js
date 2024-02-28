@@ -42,7 +42,7 @@ const sidebars = {
       items: [
         'Member Onboarding/On-boarding-Process',
         'Member Onboarding/Buisness-Visa-Program',
-        'Member Onboarding/Contrbution-Guidlines',
+        'Member Onboarding/Contrbution Guidlines',
         // other items...
       ],
     },

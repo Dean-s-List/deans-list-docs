@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Deans List',
-  tagline: "Dean's List DAO docs.",
+  title: "Welcome to Dean's List DAO's Documentation",
+  tagline: "A Service Dao turned Network State, consisting of Web 3 power users providing feedback sessions.",
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -74,11 +74,12 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            type: 'doc',
+            docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Home',
           },
+          
           { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/dean-s-list/deans-list-docs',
@@ -89,12 +90,15 @@ const config = {
       },
       footer: {
         style: 'dark',
+
+        
+
         links: [
           {
-            title: 'Docs',
+            title: "Dean's List Documnetation",
             items: [
               {
-                label: 'Tutorial',
+                label: 'Introduction',
                 to: '/docs/intro',
               },
             ],

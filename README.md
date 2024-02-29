@@ -2,6 +2,8 @@
 
 Dean's List DAO Documentation built by [NevvDevv](https://github.com/JustAnotherDevv) during Solana hackathon.
 
+[Live demo hosted on netlify](https://deans-list-dao-docs.netlify.app)
+
 ## Features
 
 - DAO Overview ✅

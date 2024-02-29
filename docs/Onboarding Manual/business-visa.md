@@ -4,6 +4,10 @@ sidebar_position: 3
 
 # Business Visa Program
 
+<div style={{textAlign: 'center'}}>
+  ![Business Visa Infographic](image-2.png)
+</div>
+
 Our business visa gives you a one time 30 day pass to our DAO. If you are issued a business visa, you are eligible to participate in (almost) all DAO activities that are otherwise only available to full citizens. When the 30 days are over, you can choose to renew for $5/month.
 
 ## Who Is It For?

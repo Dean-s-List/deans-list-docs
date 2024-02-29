@@ -14,6 +14,10 @@ Becoming Dean's List DAO citizen or acquiring Business Visa allows for participa
 
 ### Feedback Sessions
 
+<div style={{textAlign: 'center'}}>
+  ![Manager Explained graph](Untitled-2024-02-29-1911_333.png)
+</div>
+
 Feedback will be conducted exclusively on the [Dash](https://dash.deanslist.services) once it’s undergone the last few modifications in order to ensure a smooth feedback experience for everyone involved. For now it is conducted through forum-intro posts in the [DL Onboarding Server](https://discord.gg/5j2FHKAXGh).
 
 #### Rules
@@ -26,11 +30,17 @@ Feedback will be conducted exclusively on the [Dash](https://dash.deanslist.serv
 
 #### Feedback Grading
 
+Once the 2-week feedback session has ended, all submissions are reviewed by managers. Then all eligible submussions get a share of a bounty pool after a DAO fee of 35% is applied.
+
 - **"0"** for repetitions / invalid / incomplete points
 - **"1"** for Valid Points
 - **"2"** for Feedback that comes with proof of on chain transactions
 
 ### Technical Writing
+
+<div style={{textAlign: 'center'}}>
+  ![Manager Explained graph](Untitled-2024-02-29-19112.png)
+</div>
 
 Occasionally Dean's List might organize internal contest for writing related to the DAO itself, its services or case studies from previous clients.
 

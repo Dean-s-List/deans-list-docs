@@ -4,7 +4,11 @@ sidebar_position: 1
 
 # About Dean's List DAO
 
-![Dean's List](image.png)
+<div style={{textAlign: 'center'}}>
+  ![Dean's List](LRkGoyu7TUq9aOE4BjX6_xRuGpK2xCwX4yzbD.webp)
+</div>
+
+## Mission
 
 The mission of the Dean's List DAO is to build a borderless Digital Network State that provides opportunities to its citizens and changes the future of work.
 It aims to create value on-chain through service-oriented products and service provision to the wider Web3 ecosystem and beyond. Currently main product is

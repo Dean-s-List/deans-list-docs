@@ -4,7 +4,9 @@ sidebar_position: 2
 
 # Manager Manual V 1.0
 
-![Manager Explained graph](Untitled-2024-02-29-1911.png)
+<div style={{textAlign: 'center'}}>
+  ![Manager Explained graph](Untitled-2024-02-29-1911.png)
+</div>
 
 ## What is a Manager in Dean’s List?
 

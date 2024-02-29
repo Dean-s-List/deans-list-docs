@@ -34,4 +34,5 @@ sidebar_position: 5
 
 ## Resources:
 
-- [February 2024 Changes](https://medium.com/@TheDaoDad/the-deans-list-network-state-forging-ahead-a49b0b0fef1f)
+- [February 2024 Tokenomics Changes](https://medium.com/@TheDaoDad/the-deans-list-network-state-forging-ahead-a49b0b0fef1f)
+- [Participation: A new idea for community token design](https://deanmachine.medium.com/participation-a-new-idea-for-community-token-design-c7d9da025df3)

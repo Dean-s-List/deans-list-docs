@@ -7,7 +7,7 @@ sidebar_position: 2
 ## Onboarding
 
 Just like multiple different Solana projects, our DAO interface makes use of Realms.
-Open up [our DAO page](https://app.realms.today/dao/F9V4Lwo49aUe8fFujMbU6uhdFyDRqKY54WpzdpncUSk9) on their website.
+Open up [our DAO page](https://app.realms.today/dao/F9V4Lwo49aUe8fFujMbU6uhdFyDRqKY54WpzdpncUSk9).
 
 ![initial Realms UI](screenzy-1707716345435.png)
 

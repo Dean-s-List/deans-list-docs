@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # DAO Governance Model
 
-Dean's List DAO operates on a unique token model called [Participation Tokens](/docs/Governance%20Framework/tokenomics). These tokens serve as both a means of participation in DAO activities and a governance mechanism.
+Dean's List DAO operates on a unique token model called [Participation Tokens](/docs/Governance%20Framework/tokenomics-intro). These tokens serve as both a means of participation in DAO activities and a governance mechanism.
 
 > _A governance token should be used for voting, not for speculation. Why hold a governance token if you arent voting!_
 
@@ -22,7 +22,7 @@ For more detailed voting instructions visit [Realms voting tutorial](/docs/Gover
 
 ## Council
 
-- 2 members
+- Few trusted DAO members voted on or off by community
 - Min Governance Power to Create a Proposal - `1`
 
 ## Treasury

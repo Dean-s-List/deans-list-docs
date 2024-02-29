@@ -31,6 +31,17 @@ sidebar_position: 3
 - **Burn Mechanism:** No burning mechanism exists. Yet, as users use DEAN tokens to buy-in their participation in various activities, a significant portion flows into the DAO’s treasury, effectively reducing the circulation.
 - **Participation** - Historically **$DEAN** has been used for participation in different kinds of services in the DAO.
 
+## Participation
+
+Dean's List DAO explores the concept of participation tokens, a novel approach to incentivize and regulate participation within decentralized communities.
+
+Participation tokens are designed for exclusive use within a specific community with no financial value. They aim to:
+
+- **Motivate active participation:** By requiring token expenditure for specific tasks within the community, participation tokens discourage low-value engagement and incentivize active contribution.
+- **Combat spam and ensure high-quality contributions:** The need to spend tokens acts as a barrier to entry, deterring frivolous applications and promoting high-quality work.
+- **Reward valuable member time:** High-trust members performing essential tasks can receive token compensation for their efforts.
+- **Offer an alternative to token governance:** Participation tokens can replace traditional token-based voting by utilizing a multi-sig reputation-based approach for community decisions.
+
 ## Tokenomics Changes:
 
 In February 2024, the **$DEAN** token went through changes explained in [this blog post](https://medium.com/@TheDaoDad/the-deans-list-network-state-forging-ahead-a49b0b0fef1f).

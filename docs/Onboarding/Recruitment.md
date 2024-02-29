@@ -1,11 +1,11 @@
 ---
 sidebar_label: 'Recruitment'
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 ## Talent Scouting
 
-Citizens with the `@One_Of_Us Role` in the Main Dean’s List Discord server are encouraged to seek power users from other Web3 communities and beyond, by inviting them to our [Onboarding Server](https://discord.gg/bqz7YqpNvY), and directing them to where to find available work.
+Citizens with the `@One_Of_Us` role in the Main Dean’s List Discord server are encouraged to seek power users from other Web3 communities and beyond, by inviting them to our [Onboarding Server](https://discord.gg/bqz7YqpNvY), and directing them to where to find available work.
 
 
 When you find a qualified and interested individual:

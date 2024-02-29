@@ -1,58 +1,65 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+// `@type` JSDoc annotations allow editor autocompletion and type checking
+// (when paired with `@ts-check`).
+// There are various equivalent ways to declare your Docusaurus config.
+// See: https://docusaurus.io/docs/api/docusaurus-config
 
-const lightCodeTheme = require('prism-react-renderer/themes/github')
-const darkCodeTheme = require('prism-react-renderer/themes/dracula')
+import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Deans List',
-  tagline: "Dean's List DAO docs.",
-  favicon: 'img/favicon.ico',
+  title: `Dean's List DAO s`,
+  tagline: "Beacon of community-driven feedback and Service DAO",
+  favicon: "img/wSt1rNcNAQpDunYhy5tRpjyCxTw.webp",
 
   // Set the production url of your site here
-  url: 'https://docs.deanslist.services',
+  url: "https://your-docusaurus-site.example.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'dean-s-list', // Usually your GitHub org/user name.
-  projectName: 'deans-list-docs', // Usually your repo name.
+  organizationName: `Dean's List DAO`, // Usually your GitHub org/user name.
+  projectName: `Dean's List DAO`, // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
+  // Even if you don't use internationalization, you can use this field to set
+  // useful metadata like html lang. For example, if your site is Chinese, you
+  // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+          sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dean-s-list/deans-list-docs/tree/main/packages/create-docusaurus/templates/shared/',
+            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/dean-s-list/deans-list-docs/tree/main/packages/create-docusaurus/templates/shared/',
+            "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
         },
+        // hire: {
+        //   sidebarPath: "./sidebars.js",
+        //   editUrl:
+        //     "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
+        // },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: "./src/css/custom.css",
         },
       }),
     ],
@@ -61,90 +68,139 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      colorMode: {
-        defaultMode: 'dark',
-      },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: "img/wSt1rNcNAQpDunYhy5tRpjyCxTw.webp",
       navbar: {
-        title: "Dean's List Docs",
+        title: `Dean's List DAO`,
         logo: {
-          alt: "Dean's List Logo",
-          src: 'img/logo.png',
+          alt: `Dean's List DAO logo`,
+          src: "img/wSt1rNcNAQpDunYhy5tRpjyCxTw.webp",
         },
         items: [
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "tutorialSidebar",
+          //   position: "left",
+          //   label: "Overview",
+          // },
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            to: "docs/Overview/intro",
+            label: "Overview",
+            position: "left",
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
           {
-            href: 'https://github.com/dean-s-list/deans-list-docs',
-            label: 'GitHub',
-            position: 'right',
+            to: "/docs/Whitepaper/what-is-deans-dao",
+            label: "Whitepaper",
+            position: "left",
+          },
+          {
+            to: "docs/Governance%20Framework/governance-model",
+            label: "Governance",
+            position: "left",
+          },
+          { to: "/docs/Hire%20Us/hire", label: "Hire Us", position: "left" },
+          { to: "/blog", label: "Blog", position: "left" },
+          {
+            href: "https://github.com/JustAnotherDevv/Dean-s-List-DAO-documentation",
+            label: "GitHub",
+            position: "right",
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: "dark",
         links: [
           {
-            title: 'Docs',
+            title: "Docs",
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: "About",
+                to: "/docs/intro",
+              },
+              {
+                label: "Whitepaper",
+                to: "/docs/Whitepaper/what-is-deans-dao",
+              },
+              {
+                label: "Onboarding Manual",
+                to: "/docs/Onboarding%20Manual/how-to-join",
+              },
+              {
+                label: "Governance Framework",
+                to: "/docs/Onboarding%20Manual/how-to-join",
+              },
+              {
+                label: "Operational Guidelines",
+                to: "/docs/Onboarding%20Manual/how-to-join",
+              },
+              {
+                label: "Network State Declaration",
+                href: "https://www.deanslist.services/files/Deanlist_Declaration_Network_State.pdf",
               },
             ],
           },
           {
-            title: 'Community',
+            title: "Community",
             items: [
               {
-                label: "Dean's List Store",
-                href: 'https://store.deanslist.services/',
+                label: "Discord",
+                href: "https://discord.gg/CYSY8vK45b",
               },
               {
-                label: "Buy Dean's List NFT",
-                href: 'https://www.tensor.trade/trade/deanslist',
+                label: "Twitter",
+                href: "https://twitter.com/deanslistDAO",
               },
               {
-                label: 'Visit our website',
-                href: 'https://deanslist.services/',
+                label: "Youtube",
+                href: "https://www.youtube.com/@deanslistweb3",
               },
               {
-                label: 'Learn more...',
-                href: 'https://linktr.ee/deanslistdao',
+                label: "Governance",
+                href: "https://app.realms.today/dao/F9V4Lwo49aUe8fFujMbU6uhdFyDRqKY54WpzdpncUSk9",
               },
             ],
           },
           {
-            title: 'Social',
+            title: "More",
             items: [
               {
-                label: 'Follow us on Twitter',
-                href: 'https://twitter.com/deanslistDAO',
+                label: "Blog",
+                to: "/blog",
               },
               {
-                label: 'Star on GitHub',
-                href: 'https://github.com/dean-s-list/deans-list-docs',
+                label: "Website",
+                href: "http://deanslist.services/",
               },
               {
-                label: 'Join our Discord',
-                href: 'https://discord.gg/deanslist',
+                label: "Store",
+                href: "https://store.deanslist.services/",
+              },
+              {
+                label: "Buy Dean's list NFT",
+                href: "https://www.tensor.trade/trade/deanslist",
+              },
+              {
+                label: "Stake your Dean's list NFT",
+                href: "https://www.anybodies.com/c/Deanslist",
+              },
+              {
+                label: "Network State Dashboard",
+                href: "https://flipsidecrypto.xyz/jackguy/deans-list-data-dashboard-Pc14j7",
+              },
+              {
+                label: "GitHub",
+                href: "https://github.com/Dean-s-List",
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Dean's List DAO.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Dean's List DAO, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
     }),
-}
+};
 
-module.exports = config
+export default config;

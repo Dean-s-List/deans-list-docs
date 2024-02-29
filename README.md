@@ -1,8 +1,29 @@
+# About
+
+Dean's List DAO Documentation built by [NevvDevv](https://github.com/JustAnotherDevv) during Solana hackathon.
+
+## Features
+
+- DAO Overview ✅
+- Whitepaper ✅
+- Governance Framework ✅
+- Tokenomics ✅
+- Onboarding Manual ✅
+- Operational Guidelines ✅
+- Blog ✅
+- `Hire Us` section with information for potential business partners ✅
+- Tutorial for governance voting on Realms ✅
+
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
+
+```
+git clone https://github.com/JustAnotherDevv/Dean-s-List-DAO-documentation
+
+```
 
 ```
 $ yarn

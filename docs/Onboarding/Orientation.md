@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Orientation'
-sidebar_position: 4
+sidebar_position: 3
 ---
 
 ## Getting started
@@ -27,17 +27,11 @@ Workshop attendance & participation unlocks greater payouts. For this purpose, e
 
 Join the [Onboarding Server](https://discord.gg/bqz7YqpNvY)!
 
-1- Apply for a business visa:
+1. Apply for a business visa: **[Apply Here](https://visa.deanslist.services/)**
 
-[Apply Here](https://visa.deanslist.services/)
+2. Verify your Business Visa on Discord (Please wait ~5 minutes after verifying to receive the Business Visa Role!): **[Verify Here](https://verify.deanslist.services/)**
 
-2- Verify your Business Visa on Discord (Please wait ~5 minutes after verifying to receive the Business Visa Role!):
+3. Connect your Discord to the DL Dash (Must have the BV Role on Discord): **[Connect Here](https://dash.deanslist.services/)**
 
-[Verify Here](https://verify.deanslist.services/)
-
-3- Connect your Discord to the DL Dash (Must have the BV Role on Discord):
-
-[Connect Here](https://dash.deanslist.services/)
-
-4- Ping `@baba` to be added to the available Feedback Sessions!
+4. **Ping `@Baba` to be added to the available Feedback Sessions!**
 

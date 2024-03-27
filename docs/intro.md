@@ -1,47 +1,19 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# Tutorial Intro
+# 👋 Welcome to Dean's List
 
-Let's discover **Docusaurus in less than 5 minutes**.
+![](https://images-ext-1.discordapp.net/external/2gXnGdBkb-EfvOmfQtJlqSdNmqf-W_w7r7-TRllhD_w/https/i.imgur.com/IJ9PNUo.png?format=webp&quality=lossless&width=1440&height=480)
 
-## Getting Started
+**Dean's List** is a Service DAO turned Network State, consisting of Web3 power users providing feedback sessions.
 
-Get started by **creating a new site**.
+In the rapidly growing sector of Web3, having a reliable and insightful feedback mechanism is crucial for newcomers in the space. 
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Dean's List stands out by offering evaluations and comprehensive feedback, essential for the development and refinement of Web3 services and products. With a focus on community and quality, Dean's List can pivot quickly to industry changes, offering its members a cutting-edge advantage.
 
-### What you'll need
+### Links
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+| Linktree | Website | Discord    | Twitter     | Store     | Dashboard     | NFT    | NFT Staking     | Governance     | Declaration    |
+|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+| [Link](https://linktr.ee/deanslistdao) | [Link](http://deanslist.services/) | [Link](https://discord.gg/CYSY8vK45b) | [Link](https://twitter.com/deanslistDAO) | [Link](https://store.deanslist.services/) | [Link](https://flipsidecrypto.xyz/jackguy/deans-list-data-dashboard-Pc14j7) | [Link](https://www.tensor.trade/trade/deanslist) | [Link](https://www.anybodies.com/c/Deanslist) | [Link](https://app.realms.today/dao/F9V4Lwo49aUe8fFujMbU6uhdFyDRqKY54WpzdpncUSk9) | [Link](https://www.deanslist.services/files/Deanlist_Declaration_Network_State.pdf) |
